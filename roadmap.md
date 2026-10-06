@@ -1,0 +1,3 @@
+- [x] Create the kinetic-glass Favour Economy intro and Hostel Block B demo without em dashes or emoji symbols.
+- [x] Make favour logging, confirmation, community switching, relationship details, and requests work locally.
+- [x] Verify responsive rendering, required page metadata, and a clean preview.
